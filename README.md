@@ -56,8 +56,8 @@ Whether you're a developer, healthcare professional, or simply passionate about 
 ## 🛠 Tech Stack (Optional)
 
 - *AI/ML Models*: Symptom analysis, medical image interpretation, cycle prediction
-- *Frontend*: React Native / Flutter
-- *Backend*: Node.js / Python (Flask or FastAPI)
+- *Frontend*: html css js
+- *Backend*:  Python (Flask )
 - *Database*: MongoDB / PostgreSQL
 - *Security*: OAuth2, AES Encryption
 - *Cloud*: AWS / Azure
